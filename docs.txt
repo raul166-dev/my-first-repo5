@@ -1,1 +1,4 @@
+HEAD
 Info dlya users: proekt aktiven
+Info dlya razrabotchikov: use calculator
+feature/calculator
